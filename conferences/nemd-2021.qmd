@@ -6,8 +6,29 @@ title: "NEMD 2021, online"
 <p class="event-meta">2nd meeting &middot; 6 September 2021 &middot; Online</p>
 ```
 
-The second meeting of the series was held online during the pandemic, over Microsoft Teams. The full sessions were recorded and remain available:
+The second meeting was held online during the pandemic, over Microsoft Teams, with speakers joining from Australia, China, India, Europe, and the US. It was organised as a collaboration between Matthew Borg (Edinburgh), James Ewen (Imperial), and Edward Smith (Brunel).
 
-- [Session recording, part 1](https://youtu.be/DgAFUfspntY)
-- [Session recording, part 2](https://youtu.be/wVHlGTRlmWg)
-- [Session recording, part 3](https://youtu.be/lVzD4G1yowE)
+The [book of abstracts (PDF)](https://fluids.ac.uk/files/sig/NEMD_SIG2_Conference_proceedings.1630660086.pdf) is archived by the UK Fluids Network, and every talk was recorded: each title below links straight to the video.
+
+## Talks
+
+- Peter Daivis, ["Energy and temperature in NEMD simulations"](https://www.youtube.com/watch?v=DgAFUfspntY&t=802s)
+- Billy Todd, ["Pumping of nano-confined water with rotating electric fields"](https://www.youtube.com/watch?v=DgAFUfspntY&t=2772s)
+- Jun Zhang, ["Molecular Dynamics and Multiscale simulation of Droplet Wetting and Evaporation"](https://www.youtube.com/watch?v=DgAFUfspntY&t=4830s)
+- Karl Travis, ["New Dolls tensor-based algorithm for studying liquid fragmentation and the tensile test for solids"](https://www.youtube.com/watch?v=DgAFUfspntY&t=6649s)
+- Patrick Ilg, ["Surface rheology of polymers at the liquid-vapour interface"](https://www.youtube.com/watch?v=DgAFUfspntY&t=8190s)
+- Suman Chakraborty, ["Evaporation of Saline Aqueous Nano-Droplets: The Coffee-Ring Effect and Beyond"](https://www.youtube.com/watch?v=wVHlGTRlmWg&t=602s)
+- Paola Carbone, ["Thermodynamic properties of the graphene/electrolyte interface"](https://www.youtube.com/watch?v=DgAFUfspntY&t=9366s)
+- Philip Camp, ["Using non-equilibrium molecular-dynamics simulations to study problems in industry"](https://www.youtube.com/watch?v=wVHlGTRlmWg&t=2170s)
+- Alessio Lavino, ["Surface topography effects on pool boiling via non-equilibrium molecular dynamics simulations"](https://www.youtube.com/watch?v=wVHlGTRlmWg&t=4036s)
+- Ozgur Yazaydin, ["Concentration Gradient Driven Molecular Dynamics to Model Gas and Liquid Phase Separations in Membranes"](https://www.youtube.com/watch?v=wVHlGTRlmWg&t=4835s)
+- Jesper Hansen, ["On nanoscale polarization"](https://www.youtube.com/watch?v=wVHlGTRlmWg&t=5714s)
+- Kaihang Shi, ["Can we define a unique microscopic pressure in inhomogeneous fluids?"](https://www.youtube.com/watch?v=wVHlGTRlmWg&t=7983s)
+- Jagjeevan Bhamra, ["Interfacial Bonding Controls Friction in Diamond-Rock Contacts"](https://www.youtube.com/watch?v=wVHlGTRlmWg&t=9835s)
+- Dimitrios Mathas, ["Evaluation of methods for viscosity simulations of lubricants at different temperatures and pressures: a case study on PAO-2"](https://www.youtube.com/watch?v=lVzD4G1yowE&t=453s)
+- James Sprittles, ["Noisy Interfacial Nanoflows"](https://www.youtube.com/watch?v=lVzD4G1yowE&t=1500s)
+- Lorenzo Botto, ["Graphene nanohydrodynamics: non-equilibrium MD simulation of graphene nanoplatelets suspended in sheared liquids"](https://www.youtube.com/watch?v=lVzD4G1yowE&t=3500s)
+- Sergey Karabasov, ["A thermostat-consistent fully coupled molecular dynamics – generalised fluctuating hydrodynamics model for non-equilibrium flows"](https://www.youtube.com/watch?v=lVzD4G1yowE&t=5518s)
+- ["An overview of the 2021 Snook prize"](https://www.youtube.com/watch?v=lVzD4G1yowE&t=7752s), offered by Bill and Carol Hoover
+
+The full recordings are also available in three parts: [part 1](https://youtu.be/DgAFUfspntY), [part 2](https://youtu.be/wVHlGTRlmWg), [part 3](https://youtu.be/lVzD4G1yowE).

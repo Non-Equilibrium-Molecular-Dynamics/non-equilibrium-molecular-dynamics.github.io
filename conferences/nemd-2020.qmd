@@ -6,6 +6,22 @@ title: "NEMD 2020, London"
 <p class="event-meta">1st meeting &middot; 17 January 2020 &middot; Brunel University London</p>
 ```
 
-The meeting that started the series. Organised by Edward Smith (Brunel University London) and James Ewen (Imperial College London) as the kick-off of the Non-Equilibrium Molecular Dynamics special interest group of the [UK Fluids Network](https://fluids.ac.uk/sig/NonEqmMD).
+The kick-off meeting of the Non-Equilibrium Molecular Dynamics special interest group of the [UK Fluids Network](https://fluids.ac.uk/sig/NonEqmMD), organised by Edward Smith (Brunel University London) and James Ewen (Imperial College London). A one-day meeting of talks and discussion sessions that started the series.
 
-Records of this first meeting are sparse. If you have photos or a programme from the day, please email [contact.nemd@gmail.com](mailto:contact.nemd@gmail.com); we would like to complete the archive.
+The [programme and abstracts (PDF)](https://fluids.ac.uk/files/sig/NEMD_SIG_abstracts.1579192321.pdf) are archived by the UK Fluids Network.
+
+## Talks
+
+- Ian Ford, "Entropy production for non-Markovian stochastic dynamics"
+- Dimitrios Mathas, "An evaluation of Equilibrium Green-Kubo and Nonequilibrium Molecular Dynamics for viscosity simulations of lubricants at different temperatures and pressures"
+- Sritay Mistry, "Charge based rejection in Boron Nitride nanotubes"
+- James Ewen, "NEMD in Tribology - Methods and Applications" ([slides](https://fluids.ac.uk/files/sig/Ewen_J_seminar.1579438654.pdf))
+- Mike Allen, "Viscosities of Smectic-A Phases" ([slides](https://fluids.ac.uk/files/sig/Allen_M_seminar.1579438646.pdf))
+- Fernando Bresme, "Thermal transport across soft and hard interface"
+- Josep Bonet Avalos, "Fluctuations in Generalised Dissipative Particle Dynamics"
+- Lev Kantorovitch, "Non-equilibrium MD based on Generalised Langevin Equation" ([slides](https://fluids.ac.uk/files/sig/Kantorovich_L_seminar.1579438661.pdf))
+- Karl Travis, "Non-equilibrium Molecular Dynamics: A powerful tool for gaining insight into fluid behavior"
+- Hongtao Zhang, "Effects of suspending Al nanoparticles on nucleation, microexplosion and combustion of a kerosene droplet: measurement and molecular dynamics simulation"
+- Carlos Ayestarán Latorre, "Surfactants Interactions with Engineering Surfaces: From Density Functional Theory to Molecular Dynamics"
+
+No photos of this first meeting are in the archive. If you have some, please email [contact.nemd@gmail.com](mailto:contact.nemd@gmail.com).

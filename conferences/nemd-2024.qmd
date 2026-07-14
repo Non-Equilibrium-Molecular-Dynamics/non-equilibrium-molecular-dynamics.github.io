@@ -6,9 +6,11 @@ title: "NEMD 2024, London"
 <p class="event-meta">3rd conference &middot; 13&ndash;14 June 2024 &middot; Imperial College London</p>
 ```
 
-The third meeting: two days of talks and poster sessions at Imperial College London, with a conference dinner.
+The third meeting: two days at Imperial College London with 8 invited talks, 17 contributed talks, 7 posters, and a conference dinner. The meeting was part funded by the Japan Society for the Promotion of Science as a joint Japanese-UK conference.
 
-The [book of abstracts](https://fluids.ac.uk/files/sig/NEMD_SIG3_BookofAbstracts.1718201870.pdf) is available from the UK Fluids Network.
+Invited speakers: Daniele Dini (Imperial College London), Fernando Bresme (Imperial College London), Marcello Sega (UCL), Yasutaka Yamaguchi (Osaka University), Shin-ichi Tsuda (Kyushu University), Peter Daivis (RMIT), Billy Todd (Swinburne University of Technology), and Kazumichi Kobayashi (Hokkaido University).
+
+The [book of abstracts (PDF)](https://fluids.ac.uk/files/sig/NEMD_SIG3_BookofAbstracts.1718201870.pdf) has the full programme; it is archived by the UK Fluids Network.
 
 ```{=html}
 <div class="event-photo"><img src="../images/london-2024.jpg" alt="NEMD 2024 group photo at Imperial College London"></div>
