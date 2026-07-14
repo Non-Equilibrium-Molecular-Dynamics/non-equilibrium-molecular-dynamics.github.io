@@ -1,0 +1,13 @@
+---
+title: "NEMD 2021, online"
+---
+
+```{=html}
+<p class="event-meta">2nd meeting &middot; 6 September 2021 &middot; Online</p>
+```
+
+The second meeting of the series was held online during the pandemic, over Microsoft Teams. The full sessions were recorded and remain available:
+
+- [Session recording, part 1](https://youtu.be/DgAFUfspntY)
+- [Session recording, part 2](https://youtu.be/wVHlGTRlmWg)
+- [Session recording, part 3](https://youtu.be/lVzD4G1yowE)

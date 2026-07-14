@@ -1,0 +1,11 @@
+---
+title: "NEMD 2020, London"
+---
+
+```{=html}
+<p class="event-meta">1st meeting &middot; 17 January 2020 &middot; Brunel University London</p>
+```
+
+The meeting that started the series. Organised by Edward Smith (Brunel University London) and James Ewen (Imperial College London) as the kick-off of the Non-Equilibrium Molecular Dynamics special interest group of the [UK Fluids Network](https://fluids.ac.uk/sig/NonEqmMD).
+
+Records of this first meeting are sparse. If you have photos or a programme from the day, please email [contact.nemd@gmail.com](mailto:contact.nemd@gmail.com); we would like to complete the archive.

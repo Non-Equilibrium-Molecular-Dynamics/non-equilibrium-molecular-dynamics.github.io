@@ -1,0 +1,16 @@
+---
+title: "NEMD 2024, London"
+---
+
+```{=html}
+<p class="event-meta">3rd conference &middot; 13&ndash;14 June 2024 &middot; Imperial College London</p>
+```
+
+The third meeting: two days of talks and poster sessions at Imperial College London, with a conference dinner.
+
+The [book of abstracts](https://fluids.ac.uk/files/sig/NEMD_SIG3_BookofAbstracts.1718201870.pdf) is available from the UK Fluids Network.
+
+```{=html}
+<div class="event-photo"><img src="../images/london-2024.jpg" alt="NEMD 2024 group photo at Imperial College London"></div>
+<p class="photo-credit">NEMD 2024 at Imperial College London.</p>
+```

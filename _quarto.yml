@@ -1,0 +1,36 @@
+project:
+  type: website
+  render: ["*.qmd", "conferences/*.qmd"]
+
+website:
+  title: "Non-Equilibrium Molecular Dynamics"
+  site-url: https://non-equilibrium-molecular-dynamics.github.io
+  search: false
+  navbar:
+    background: "#1a365d"
+    left:
+      - text: "Conferences"
+        href: conferences.qmd
+      - text: "Summer School"
+        href: summer-school.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "About"
+        href: about.qmd
+  page-footer:
+    center: >
+      <a href="mailto:contact.nemd@gmail.com">contact.nemd@gmail.com</a> &middot;
+      <a href="https://github.com/Non-Equilibrium-Molecular-Dynamics">GitHub</a> &middot;
+      <a href="https://fluids.ac.uk/sig/NonEqmMD">UK Fluids Network SIG</a> &middot;
+      <a href="mailto:contact.nemd@gmail.com?subject=subscribe">Join the mailing list</a>
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..600&family=Inter:wght@300..700&display=swap" rel="stylesheet">

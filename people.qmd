@@ -1,0 +1,25 @@
+---
+title: "People"
+---
+
+## Special interest group
+
+The NEMD special interest group of the UK Fluids Network is led by:
+
+```{=html}
+<p class="person"><span class="name">Edward Smith</span> <span class="aff">&middot; Brunel University London &middot; SIG leader</span></p>
+<p class="person"><span class="name">James Ewen</span> <span class="aff">&middot; Imperial College London &middot; SIG co-leader</span></p>
+```
+
+## NEMD 2026 organising committee
+
+```{=html}
+<p class="person"><span class="name">Rohit Pillai</span> <span class="aff">&middot; University of Edinburgh &middot; chair</span></p>
+<p class="person"><span class="name">Duncan Dockar</span> <span class="aff">&middot; University of Edinburgh</span></p>
+<p class="person"><span class="name">Eleonora Ricci</span> <span class="aff">&middot; University of Edinburgh</span></p>
+<p class="person"><span class="name">Santiago Romero-Vargas Castrillón</span> <span class="aff">&middot; University of Edinburgh</span></p>
+<p class="person"><span class="name">Saikat Datta</span> <span class="aff">&middot; Swansea University</span></p>
+<p class="person"><span class="name">Edward Smith</span> <span class="aff">&middot; Brunel University London</span></p>
+```
+
+Earlier meetings were organised by their local hosts; each [conference page](conferences.html) credits its organisers.

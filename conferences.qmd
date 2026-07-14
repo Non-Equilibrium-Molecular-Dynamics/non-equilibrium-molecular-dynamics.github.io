@@ -1,0 +1,30 @@
+---
+title: "Conferences"
+---
+
+The NEMD conference series has met five times since 2020, in the UK, online, and in Japan. Each meeting has its own page with dates, organisers, and materials.
+
+```{=html}
+<div class="ed-grid">
+  <a class="ed-card" href="conferences/nemd-2026.html">
+    <div class="img" style="background-image:url('images/conf-full.jpg')"></div>
+    <div class="body"><span class="yr">2026 &middot; Edinburgh</span><h3>NEMD 2026</h3><p>The 5th and largest meeting yet: 5 keynotes, 24 talks, 15 posters, 76 delegates from 15 countries, and the first summer school.</p></div>
+  </a>
+  <a class="ed-card" href="conferences/nemd-2025.html">
+    <div class="img" style="background-image:url('images/osaka-2025.jpg')"></div>
+    <div class="body"><span class="yr">2025 &middot; Osaka</span><h3>NEMD 2025</h3><p>The 4th meeting and the first outside the UK, hosted at Osaka University Nakanoshima Center.</p></div>
+  </a>
+  <a class="ed-card" href="conferences/nemd-2024.html">
+    <div class="img" style="background-image:url('images/london-2024.jpg')"></div>
+    <div class="body"><span class="yr">2024 &middot; London</span><h3>NEMD 2024</h3><p>The 3rd meeting: two days of talks and poster sessions at Imperial College London.</p></div>
+  </a>
+  <a class="ed-card" href="conferences/nemd-2021.html">
+    <div class="img">2nd</div>
+    <div class="body"><span class="yr">2021 &middot; Online</span><h3>NEMD 2021</h3><p>The online meeting, with full session recordings available on YouTube.</p></div>
+  </a>
+  <a class="ed-card" href="conferences/nemd-2020.html">
+    <div class="img">1st</div>
+    <div class="body"><span class="yr">2020 &middot; London</span><h3>NEMD 2020</h3><p>The kick-off meeting at Brunel University London that started the series.</p></div>
+  </a>
+</div>
+```
