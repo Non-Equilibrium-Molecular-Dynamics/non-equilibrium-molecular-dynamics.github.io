@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "summer-school.html",
+    "href": "summer-school.html",
+    "title": "Summer School",
+    "section": "",
+    "text": "NEMD for Fluids and Interfaces · 6–7 July 2026 · University of Edinburgh\nThe first NEMD summer school ran over the two days before NEMD 2026, with 39 participants. Ten lectures covered NEMD theory and methods for fluids and interfaces, paired with hands-on sessions running LAMMPS on the Cirrus supercomputer with EPCC support.\n\nSchool website: nemd-school.org\nHands-on materials (LAMMPS + Python, open to all): github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026\n\n\nThe 2026 summer school at the Nucleus, King's Buildings."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Non-Equilibrium Molecular Dynamics",
+    "section": "",
+    "text": "Non-Equilibrium Molecular Dynamics\n    The community for molecular simulation of fluids driven away from equilibrium: flows, thermal gradients, and interfaces. Meeting since 2020, worldwide.\n  \n  \n  NEMD 2026, Edinburgh\n\n\n\n  5conferences\n  2continents\n  76delegates in 2026\n  15countries\n  2026first summer school\n\n\n\n  The series\n  \n    20201st meeting, Brunel University London: the series starts under the UK Fluids Network special interest group\n    20212nd meeting, online, with full recordings\n    20243rd conference, Imperial College London\n    20254th conference, Osaka: the first outside the UK\n    20265th conference, Edinburgh: the largest yet, and the first with a summer school\n    NextTo be announced; the mailing list hears first\n  \n\n\n\n  Stay in touch\n  Announcements about future meetings and the planned seminar series go to the mailing list first. To join, email contact.nemd@gmail.com with the subject line \"subscribe\".\n  Join the mailing list"
+  },
+  {
+    "objectID": "conferences/nemd-2025.html",
+    "href": "conferences/nemd-2025.html",
+    "title": "NEMD 2025, Osaka",
+    "section": "",
+    "text": "4th conference · 11–13 June 2025 · Osaka University Nakanoshima Center\nThe fourth meeting and the first outside the UK. Chaired by Yasutaka Yamaguchi (Osaka University), with vice chairs Takeshi Omori and Takuya Kuwahara (Osaka Metropolitan University), the meeting was supported by the Japan Society for the Promotion of Science as a UK-Japan collaborative initiative, with refreshments sponsored by Tokyo Electron.\nMore detail is on the NEMD 2025 conference site.\n\nNEMD 2025 at Osaka University Nakanoshima Center."
+  },
+  {
+    "objectID": "conferences/nemd-2021.html",
+    "href": "conferences/nemd-2021.html",
+    "title": "NEMD 2021, online",
+    "section": "",
+    "text": "2nd meeting · 6 September 2021 · Online\nThe second meeting of the series was held online during the pandemic, over Microsoft Teams. The full sessions were recorded and remain available:\n\nSession recording, part 1\nSession recording, part 2\nSession recording, part 3"
+  },
+  {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "Conferences",
+    "section": "",
+    "text": "The NEMD conference series has met five times since 2020, in the UK, online, and in Japan. Each meeting has its own page with dates, organisers, and materials.\n\n  \n    \n    2026 · EdinburghNEMD 2026The 5th and largest meeting yet: 5 keynotes, 24 talks, 15 posters, 76 delegates from 15 countries, and the first summer school.\n  \n  \n    \n    2025 · OsakaNEMD 2025The 4th meeting and the first outside the UK, hosted at Osaka University Nakanoshima Center.\n  \n  \n    \n    2024 · LondonNEMD 2024The 3rd meeting: two days of talks and poster sessions at Imperial College London.\n  \n  \n    2nd\n    2021 · OnlineNEMD 2021The online meeting, with full session recordings available on YouTube.\n  \n  \n    1st\n    2020 · LondonNEMD 2020The kick-off meeting at Brunel University London that started the series."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Non-equilibrium molecular dynamics (NEMD) is the study of fundamental fluid flow using molecular simulation: non-equilibrium because the system is driven away from thermodynamic equilibrium by wall motion, temperature and pressure gradients, or because it contains an interface such as a liquid-vapour coexistence."
+  },
+  {
+    "objectID": "about.html#the-community",
+    "href": "about.html#the-community",
+    "title": "About",
+    "section": "The community",
+    "text": "The community\nNEMD started in 2020 as a special interest group of the UK Fluids Network, kicked off at a meeting at Brunel University London on 17 January 2020. Since then it has grown into an international conference series: five meetings across the UK, online, and Japan, with the largest, NEMD 2026 in Edinburgh, gathering 76 delegates from 15 countries alongside the first NEMD summer school.\nThe name has a longer history: NEMD workshops ran in the 2010s before the current series, and the field’s roots go back to the first molecular simulations of shear flow. A fuller history page is planned; if you have material from the earlier era, please get in touch."
+  },
+  {
+    "objectID": "about.html#get-involved",
+    "href": "about.html#get-involved",
+    "title": "About",
+    "section": "Get involved",
+    "text": "Get involved\n\nJoin the mailing list: email contact.nemd@gmail.com with the subject line “subscribe”.\nA seminar series is planned; announcements will go to the mailing list first."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nEmail contact.nemd@gmail.com, or reach the SIG through the UK Fluids Network page."
+  },
+  {
+    "objectID": "conferences/nemd-2020.html",
+    "href": "conferences/nemd-2020.html",
+    "title": "NEMD 2020, London",
+    "section": "",
+    "text": "1st meeting · 17 January 2020 · Brunel University London\nThe meeting that started the series. Organised by Edward Smith (Brunel University London) and James Ewen (Imperial College London) as the kick-off of the Non-Equilibrium Molecular Dynamics special interest group of the UK Fluids Network.\nRecords of this first meeting are sparse. If you have photos or a programme from the day, please email contact.nemd@gmail.com; we would like to complete the archive."
+  },
+  {
+    "objectID": "conferences/nemd-2024.html",
+    "href": "conferences/nemd-2024.html",
+    "title": "NEMD 2024, London",
+    "section": "",
+    "text": "3rd conference · 13–14 June 2024 · Imperial College London\nThe third meeting: two days of talks and poster sessions at Imperial College London, with a conference dinner.\nThe book of abstracts is available from the UK Fluids Network.\n\nNEMD 2024 at Imperial College London."
+  },
+  {
+    "objectID": "conferences/nemd-2026.html",
+    "href": "conferences/nemd-2026.html",
+    "title": "NEMD 2026, Edinburgh",
+    "section": "",
+    "text": "5th conference · 8–10 July 2026 · The Nucleus, University of Edinburgh\nThe fifth meeting was the largest yet: 76 delegates from 15 countries across 4 continents, with 5 keynotes, 24 talks in total, and 15 posters presented through lightning-talk sessions. It was also the first meeting with a summer school, held on the two days before the conference.\nFor the full timetable, see the conference programme (PDF).\nNEMD 2026 delegates at the Nucleus, King's Buildings."
+  },
+  {
+    "objectID": "conferences/nemd-2026.html#best-poster-award",
+    "href": "conferences/nemd-2026.html#best-poster-award",
+    "title": "NEMD 2026, Edinburgh",
+    "section": "Best Poster Award",
+    "text": "Best Poster Award\nVoted by the delegates, the award was shared by two posters:\n\nTiziano Cavalieri (University of Edinburgh), “A Non-Equilibrium Approach to Molecular Modelling of Gas Transport in a Mixed Matrix Membrane”\nTaher Meydando (University of Edinburgh), “Determination of Nanobubble Zeta Potential via Non-Equilibrium Molecular Dynamics”\n\n\nPoster prize winners Tiziano Cavalieri and Taher Meydando with committee member Eleonora Ricci."
+  },
+  {
+    "objectID": "conferences/nemd-2026.html#organisation",
+    "href": "conferences/nemd-2026.html#organisation",
+    "title": "NEMD 2026, Edinburgh",
+    "section": "Organisation",
+    "text": "Organisation\nOrganised by Rohit Pillai (chair), Duncan Dockar, Eleonora Ricci, and Santiago Romero-Vargas Castrillón (University of Edinburgh), Saikat Datta (Swansea University), and Edward Smith (Brunel University London).\nSponsored by CCP5, Tokyo Electron Ltd., EPCC, Brunel University London, Swansea University, and the Multiscale Flow X group."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "The NEMD special interest group of the UK Fluids Network is led by:\nEdward Smith · Brunel University London · SIG leader\nJames Ewen · Imperial College London · SIG co-leader"
+  },
+  {
+    "objectID": "people.html#special-interest-group",
+    "href": "people.html#special-interest-group",
+    "title": "People",
+    "section": "",
+    "text": "The NEMD special interest group of the UK Fluids Network is led by:\nEdward Smith · Brunel University London · SIG leader\nJames Ewen · Imperial College London · SIG co-leader"
+  },
+  {
+    "objectID": "people.html#nemd-2026-organising-committee",
+    "href": "people.html#nemd-2026-organising-committee",
+    "title": "People",
+    "section": "NEMD 2026 organising committee",
+    "text": "NEMD 2026 organising committee\nRohit Pillai · University of Edinburgh · chair\nDuncan Dockar · University of Edinburgh\nEleonora Ricci · University of Edinburgh\nSantiago Romero-Vargas Castrillón · University of Edinburgh\nSaikat Datta · Swansea University\nEdward Smith · Brunel University London\nEarlier meetings were organised by their local hosts; each conference page credits its organisers."
+  }
+]
