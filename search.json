@@ -18,14 +18,21 @@
     "href": "conferences/nemd-2025.html",
     "title": "NEMD 2025, Osaka",
     "section": "",
-    "text": "4th conference · 11–13 June 2025 · Osaka University Nakanoshima Center\nThe fourth meeting and the first outside the UK. Chaired by Yasutaka Yamaguchi (Osaka University), with vice chairs Takeshi Omori and Takuya Kuwahara (Osaka Metropolitan University), the meeting was supported by the Japan Society for the Promotion of Science as a UK-Japan collaborative initiative, with refreshments sponsored by Tokyo Electron.\nMore detail is on the NEMD 2025 conference site.\n\nNEMD 2025 at Osaka University Nakanoshima Center."
+    "text": "4th conference · 11–13 June 2025 · Osaka University Nakanoshima Center\nThe fourth meeting and the first outside the UK. Chaired by Yasutaka Yamaguchi (Osaka University), with vice chairs Takeshi Omori and Takuya Kuwahara (Osaka Metropolitan University), the meeting was supported by the Japan Society for the Promotion of Science as a UK-Japan collaborative initiative, with refreshments sponsored by Tokyo Electron.\nAcross three days the programme held 13 keynotes, 5 contributed talks, and 14 posters. Keynote speakers: Billy Todd, Peter Daivis, Edward Smith, Takuya Kuwahara, Ozgur Yazaydin, Xinyan Wang, Rohit Pillai, Lois Smith, Kenichiro Koshiyama, Cillian Cockrell, Karl Travis, Stephen Sanderson, and Derek Basset (Tokyo Electron US), whose industry keynote closed the series of talks.\nMore detail is on the NEMD 2025 conference site.\n\nNEMD 2025 at Osaka University Nakanoshima Center."
   },
   {
     "objectID": "conferences/nemd-2021.html",
     "href": "conferences/nemd-2021.html",
     "title": "NEMD 2021, online",
     "section": "",
-    "text": "2nd meeting · 6 September 2021 · Online\nThe second meeting of the series was held online during the pandemic, over Microsoft Teams. The full sessions were recorded and remain available:\n\nSession recording, part 1\nSession recording, part 2\nSession recording, part 3"
+    "text": "2nd meeting · 6 September 2021 · Online\nThe second meeting was held online during the pandemic, over Microsoft Teams, with speakers joining from Australia, China, India, Europe, and the US. It was organised as a collaboration between Matthew Borg (Edinburgh), James Ewen (Imperial), and Edward Smith (Brunel).\nThe book of abstracts (PDF) is archived by the UK Fluids Network, and every talk was recorded: each title below links straight to the video."
+  },
+  {
+    "objectID": "conferences/nemd-2021.html#talks",
+    "href": "conferences/nemd-2021.html#talks",
+    "title": "NEMD 2021, online",
+    "section": "Talks",
+    "text": "Talks\n\nPeter Daivis, “Energy and temperature in NEMD simulations”\nBilly Todd, “Pumping of nano-confined water with rotating electric fields”\nJun Zhang, “Molecular Dynamics and Multiscale simulation of Droplet Wetting and Evaporation”\nKarl Travis, “New Dolls tensor-based algorithm for studying liquid fragmentation and the tensile test for solids”\nPatrick Ilg, “Surface rheology of polymers at the liquid-vapour interface”\nSuman Chakraborty, “Evaporation of Saline Aqueous Nano-Droplets: The Coffee-Ring Effect and Beyond”\nPaola Carbone, “Thermodynamic properties of the graphene/electrolyte interface”\nPhilip Camp, “Using non-equilibrium molecular-dynamics simulations to study problems in industry”\nAlessio Lavino, “Surface topography effects on pool boiling via non-equilibrium molecular dynamics simulations”\nOzgur Yazaydin, “Concentration Gradient Driven Molecular Dynamics to Model Gas and Liquid Phase Separations in Membranes”\nJesper Hansen, “On nanoscale polarization”\nKaihang Shi, “Can we define a unique microscopic pressure in inhomogeneous fluids?”\nJagjeevan Bhamra, “Interfacial Bonding Controls Friction in Diamond-Rock Contacts”\nDimitrios Mathas, “Evaluation of methods for viscosity simulations of lubricants at different temperatures and pressures: a case study on PAO-2”\nJames Sprittles, “Noisy Interfacial Nanoflows”\nLorenzo Botto, “Graphene nanohydrodynamics: non-equilibrium MD simulation of graphene nanoplatelets suspended in sheared liquids”\nSergey Karabasov, “A thermostat-consistent fully coupled molecular dynamics – generalised fluctuating hydrodynamics model for non-equilibrium flows”\n“An overview of the 2021 Snook prize”, offered by Bill and Carol Hoover\n\nThe full recordings are also available in three parts: part 1, part 2, part 3."
   },
   {
     "objectID": "conferences.html",
@@ -53,7 +60,7 @@
     "href": "about.html#get-involved",
     "title": "About",
     "section": "Get involved",
-    "text": "Get involved\n\nJoin the mailing list: email contact.nemd@gmail.com with the subject line “subscribe”.\nA seminar series is planned; announcements will go to the mailing list first."
+    "text": "Get involved\n\nJoin the mailing list: email contact.nemd@gmail.com with the subject line “subscribe”.\nTo join the special interest group itself, register with the UK Fluids Network.\nA seminar series is planned; announcements will go to the mailing list first."
   },
   {
     "objectID": "about.html#contact",
@@ -67,14 +74,21 @@
     "href": "conferences/nemd-2020.html",
     "title": "NEMD 2020, London",
     "section": "",
-    "text": "1st meeting · 17 January 2020 · Brunel University London\nThe meeting that started the series. Organised by Edward Smith (Brunel University London) and James Ewen (Imperial College London) as the kick-off of the Non-Equilibrium Molecular Dynamics special interest group of the UK Fluids Network.\nRecords of this first meeting are sparse. If you have photos or a programme from the day, please email contact.nemd@gmail.com; we would like to complete the archive."
+    "text": "1st meeting · 17 January 2020 · Brunel University London\nThe kick-off meeting of the Non-Equilibrium Molecular Dynamics special interest group of the UK Fluids Network, organised by Edward Smith (Brunel University London) and James Ewen (Imperial College London). A one-day meeting of talks and discussion sessions that started the series.\nThe programme and abstracts (PDF) are archived by the UK Fluids Network."
+  },
+  {
+    "objectID": "conferences/nemd-2020.html#talks",
+    "href": "conferences/nemd-2020.html#talks",
+    "title": "NEMD 2020, London",
+    "section": "Talks",
+    "text": "Talks\n\nIan Ford, “Entropy production for non-Markovian stochastic dynamics”\nDimitrios Mathas, “An evaluation of Equilibrium Green-Kubo and Nonequilibrium Molecular Dynamics for viscosity simulations of lubricants at different temperatures and pressures”\nSritay Mistry, “Charge based rejection in Boron Nitride nanotubes”\nJames Ewen, “NEMD in Tribology - Methods and Applications” (slides)\nMike Allen, “Viscosities of Smectic-A Phases” (slides)\nFernando Bresme, “Thermal transport across soft and hard interface”\nJosep Bonet Avalos, “Fluctuations in Generalised Dissipative Particle Dynamics”\nLev Kantorovitch, “Non-equilibrium MD based on Generalised Langevin Equation” (slides)\nKarl Travis, “Non-equilibrium Molecular Dynamics: A powerful tool for gaining insight into fluid behavior”\nHongtao Zhang, “Effects of suspending Al nanoparticles on nucleation, microexplosion and combustion of a kerosene droplet: measurement and molecular dynamics simulation”\nCarlos Ayestarán Latorre, “Surfactants Interactions with Engineering Surfaces: From Density Functional Theory to Molecular Dynamics”\n\nNo photos of this first meeting are in the archive. If you have some, please email contact.nemd@gmail.com."
   },
   {
     "objectID": "conferences/nemd-2024.html",
     "href": "conferences/nemd-2024.html",
     "title": "NEMD 2024, London",
     "section": "",
-    "text": "3rd conference · 13–14 June 2024 · Imperial College London\nThe third meeting: two days of talks and poster sessions at Imperial College London, with a conference dinner.\nThe book of abstracts is available from the UK Fluids Network.\n\nNEMD 2024 at Imperial College London."
+    "text": "3rd conference · 13–14 June 2024 · Imperial College London\nThe third meeting: two days at Imperial College London with 8 invited talks, 17 contributed talks, 7 posters, and a conference dinner. The meeting was part funded by the Japan Society for the Promotion of Science as a joint Japanese-UK conference.\nInvited speakers: Daniele Dini (Imperial College London), Fernando Bresme (Imperial College London), Marcello Sega (UCL), Yasutaka Yamaguchi (Osaka University), Shin-ichi Tsuda (Kyushu University), Peter Daivis (RMIT), Billy Todd (Swinburne University of Technology), and Kazumichi Kobayashi (Hokkaido University).\nThe book of abstracts (PDF) has the full programme; it is archived by the UK Fluids Network.\n\nNEMD 2024 at Imperial College London."
   },
   {
     "objectID": "conferences/nemd-2026.html",
