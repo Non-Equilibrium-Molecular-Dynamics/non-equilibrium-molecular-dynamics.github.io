@@ -5,6 +5,7 @@ project:
 website:
   title: "Non-Equilibrium Molecular Dynamics"
   site-url: https://non-equilibrium-molecular-dynamics.github.io
+  favicon: images/favicon.png
   search: false
   navbar:
     background: "#1a365d"
