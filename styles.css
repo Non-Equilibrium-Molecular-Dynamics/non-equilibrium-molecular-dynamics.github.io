@@ -255,14 +255,16 @@ a:hover { color: var(--cyan-bright); }
 }
 .photo-credit { font-size: 0.8rem; color: var(--ink-faint); margin-top: -0.8rem; }
 
-/* ===== Conference list cards ===== */
+/* ===== Conference list: one full-width panel per meeting ===== */
 .ed-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
-  gap: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.3rem;
   margin-top: 1.6rem;
 }
 .ed-card {
+  display: grid;
+  grid-template-columns: 300px 1fr;
   border: 1px solid var(--line);
   border-radius: 12px;
   overflow: hidden;
@@ -271,12 +273,13 @@ a:hover { color: var(--cyan-bright); }
   transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 }
 .ed-card:hover {
-  transform: translateY(-4px);
+  transform: translateY(-3px);
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.55);
   border-color: #2a4a6e;
 }
 .ed-card .img {
-  height: 150px;
+  min-height: 168px;
+  height: 100%;
   background: linear-gradient(135deg, #16283e 0%, #0d5c6e 100%);
   display: flex;
   align-items: center;
@@ -287,7 +290,11 @@ a:hover { color: var(--cyan-bright); }
   background-size: cover;
   background-position: center;
 }
-.ed-card .body { padding: 1.05rem 1.25rem 1.15rem; }
+.ed-card .body { padding: 1.15rem 1.5rem 1.2rem; align-self: center; }
+@media (max-width: 700px) {
+  .ed-card { grid-template-columns: 1fr; }
+  .ed-card .img { min-height: 150px; }
+}
 .ed-card .yr {
   font: 600 0.75rem 'Inter', sans-serif;
   text-transform: uppercase;
