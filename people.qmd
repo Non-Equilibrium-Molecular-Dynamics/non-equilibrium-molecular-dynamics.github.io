@@ -2,13 +2,13 @@
 title: "People"
 ---
 
-## Special interest group
+## Origins
 
-The NEMD special interest group of the UK Fluids Network is led by:
+The series began in 2020 as a special interest group of the UK Fluids Network, led by:
 
 ```{=html}
-<p class="person"><span class="name">Edward Smith</span> <span class="aff">&middot; Brunel University London &middot; SIG leader</span></p>
-<p class="person"><span class="name">James Ewen</span> <span class="aff">&middot; Imperial College London &middot; SIG co-leader</span></p>
+<p class="person"><span class="name">Edward Smith</span> <span class="aff">&middot; Brunel University London</span></p>
+<p class="person"><span class="name">James Ewen</span> <span class="aff">&middot; Imperial College London</span></p>
 ```
 
 ## NEMD 2026 organising committee

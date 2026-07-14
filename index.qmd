@@ -38,7 +38,7 @@ format:
 
 <section class="band-light">
   <h2>Stay in touch</h2>
-  <p>Announcements about future meetings and the planned seminar series go to the mailing list first. To join, email contact.nemd@gmail.com with the subject line "subscribe".</p>
+  <p>Announcements about future meetings go to the mailing list first. To join, email contact.nemd@gmail.com with the subject line "subscribe".</p>
   <a class="cta" href="mailto:contact.nemd@gmail.com?subject=subscribe">Join the mailing list</a>
 </section>
 ```
