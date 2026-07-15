@@ -8,7 +8,7 @@ title: "NEMD 2020, London"
 
 The kick-off meeting of the Non-Equilibrium Molecular Dynamics special interest group of the [UK Fluids Network](https://fluids.ac.uk/sig/NonEqmMD), organised by Edward Smith (Brunel University London) and James Ewen (Imperial College London). A one-day meeting of talks and discussion sessions that started the series.
 
-The [programme and abstracts (PDF)](https://fluids.ac.uk/files/sig/NEMD_SIG_abstracts.1579192321.pdf) are archived by the UK Fluids Network.
+The [programme and abstracts (PDF)](../files/NEMD_SIG1_abstracts.pdf) are archived by the UK Fluids Network.
 
 ## Talks
 
