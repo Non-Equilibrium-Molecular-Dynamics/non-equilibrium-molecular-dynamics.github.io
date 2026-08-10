@@ -10,6 +10,7 @@ The first NEMD summer school ran over the two days before NEMD 2026, with 39 par
 
 - School website: [nemd-school.org](https://nemd-school.org)
 - Hands-on materials (LAMMPS + Python, open to all): [github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026](https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026)
+- Lecture slides (PDF, all ten lectures): [2026 Lecture Slides](https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/tag/slides-2026)
 
 ```{=html}
 <div class="event-photo"><img src="images/school-2026.jpg" alt="Group photo of the 2026 summer school participants"></div>
