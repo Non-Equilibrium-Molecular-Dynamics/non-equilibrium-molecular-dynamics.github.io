@@ -10,7 +10,7 @@ The third meeting: two days at Imperial College London with 8 invited talks, 17 
 
 Invited speakers: Daniele Dini (Imperial College London), Fernando Bresme (Imperial College London), Marcello Sega (UCL), Yasutaka Yamaguchi (Osaka University), Shin-ichi Tsuda (Kyushu University), Peter Daivis (RMIT), Billy Todd (Swinburne University of Technology), and Kazumichi Kobayashi (Hokkaido University).
 
-The [book of abstracts (PDF)](https://fluids.ac.uk/files/sig/NEMD_SIG3_BookofAbstracts.1718201870.pdf) has the full programme; it is archived by the UK Fluids Network.
+The [book of abstracts (PDF)](../files/NEMD_SIG3_BookofAbstracts.pdf) has the full programme and the introduction slides are [here](../files/NEMD_SIG3_intro.pdf).
 
 ```{=html}
 <div class="event-photo"><img src="../images/london-2024.jpg" alt="NEMD 2024 group photo at Imperial College London"></div>
