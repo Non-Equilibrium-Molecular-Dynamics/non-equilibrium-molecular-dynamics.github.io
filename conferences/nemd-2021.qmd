@@ -8,10 +8,11 @@ title: "NEMD 2021, online"
 
 The second meeting was held online during the pandemic, over Microsoft Teams, with speakers joining from Australia, China, India, Europe, and the US. It was organised as a collaboration between Matthew Borg (Edinburgh), James Ewen (Imperial), and Edward Smith (Brunel).
 
-The [book of abstracts (PDF)](https://fluids.ac.uk/files/sig/NEMD_SIG2_Conference_proceedings.1630660086.pdf) is archived by the UK Fluids Network, and every talk was recorded: each title below links straight to the video.
+The [book of abstracts (PDF)](../files/NEMD_SIG2_Conference_proceedings.pdf) is here and every talk was recorded: each title below links straight to the video.
 
 ## Talks
 
+- Edward Smith ["Introduction"](../files/NEMD_SIG2_intro.pdf)
 - Peter Daivis, ["Energy and temperature in NEMD simulations"](https://www.youtube.com/watch?v=DgAFUfspntY&t=802s)
 - Billy Todd, ["Pumping of nano-confined water with rotating electric fields"](https://www.youtube.com/watch?v=DgAFUfspntY&t=2772s)
 - Jun Zhang, ["Molecular Dynamics and Multiscale simulation of Droplet Wetting and Evaporation"](https://www.youtube.com/watch?v=DgAFUfspntY&t=4830s)
@@ -29,6 +30,6 @@ The [book of abstracts (PDF)](https://fluids.ac.uk/files/sig/NEMD_SIG2_Conferenc
 - James Sprittles, ["Noisy Interfacial Nanoflows"](https://www.youtube.com/watch?v=lVzD4G1yowE&t=1500s)
 - Lorenzo Botto, ["Graphene nanohydrodynamics: non-equilibrium MD simulation of graphene nanoplatelets suspended in sheared liquids"](https://www.youtube.com/watch?v=lVzD4G1yowE&t=3500s)
 - Sergey Karabasov, ["A thermostat-consistent fully coupled molecular dynamics – generalised fluctuating hydrodynamics model for non-equilibrium flows"](https://www.youtube.com/watch?v=lVzD4G1yowE&t=5518s)
-- ["An overview of the 2021 Snook prize"](https://www.youtube.com/watch?v=lVzD4G1yowE&t=7752s), offered by Bill and Carol Hoover
+- ["An overview of the 2021 Snook prize"](https://www.youtube.com/watch?v=lVzD4G1yowE&t=7752s), offered by Bill and Carol Hoover (slides)[../files/NEMD_SIG2_outro.pdf]
 
 The full recordings are also available in three parts: [part 1](https://youtu.be/DgAFUfspntY), [part 2](https://youtu.be/wVHlGTRlmWg), [part 3](https://youtu.be/lVzD4G1yowE).
