@@ -1,44 +1,52 @@
 ---
-pagetitle: "Non-Equilibrium Molecular Dynamics"
+title: "Non-Equilibrium Molecular Dynamics"
 format:
   html:
     page-layout: full
 ---
 
 ```{=html}
-<section class="hero-photo">
-  <div class="overlay"></div>
-  <div class="hero-text">
-    <div class="hero-h1">Non-Equilibrium Molecular Dynamics</div>
-    <p class="def">The community for molecular simulation of fluids driven away from equilibrium: flows, thermal gradients, and interfaces. Meeting since 2020, worldwide.</p>
+<div class="wrap">
+<section class="hero">
+  <div>
+    <p class="lede">The community for molecular simulation of fluids driven away from equilibrium: flows, thermal gradients, and interfaces. Meeting since 2020, worldwide.</p>
   </div>
-  <img class="hero-img" src="images/hero-2026.jpg" alt="Group photo of the NEMD 2026 conference delegates in Edinburgh">
-  <span class="caption">NEMD 2026, Edinburgh</span>
+
+  <nav class="series-map" aria-label="The conference series">
+    <svg class="route" viewBox="-10 20 660 260">
+      <path class="contour" d="M0 60 C 120 20, 200 120, 320 80 S 520 20, 640 70"/>
+      <path class="contour" d="M0 130 C 140 90, 220 190, 340 150 S 540 90, 640 140"/>
+      <path class="contour" d="M0 210 C 120 170, 230 270, 360 230 S 530 170, 640 220"/>
+      <path class="contour" d="M0 280 C 130 240, 240 300, 380 270 S 540 250, 640 290"/>
+      <path class="line" d="M70 200 L190 110 L310 200 L440 100 L560 190"/>
+      <a href="conferences/nemd-2020.html" aria-label="NEMD 2020, Brunel University London"><circle class="hit" cx="70" cy="200" r="24"/><circle class="node" cx="70" cy="200" r="10"/><text class="yr" x="70" y="236" text-anchor="middle">2020</text><text class="pl" x="70" y="254" text-anchor="middle">London, Brunel</text></a>
+      <a href="conferences/nemd-2021.html" aria-label="NEMD 2021, online"><circle class="hit" cx="190" cy="110" r="24"/><circle class="node virtual" cx="190" cy="110" r="10"/><text class="yr" x="190" y="80" text-anchor="middle">2021</text><text class="pl" x="190" y="98" text-anchor="middle">Online</text></a>
+      <a href="conferences/nemd-2024.html" aria-label="NEMD 2024, Imperial College London"><circle class="hit" cx="310" cy="200" r="24"/><circle class="node" cx="310" cy="200" r="10"/><text class="yr" x="310" y="236" text-anchor="middle">2024</text><text class="pl" x="310" y="254" text-anchor="middle">London, Imperial</text></a>
+      <a href="conferences/nemd-2025.html" aria-label="NEMD 2025, Osaka"><circle class="hit" cx="440" cy="100" r="24"/><circle class="node" cx="440" cy="100" r="10"/><text class="yr" x="440" y="70" text-anchor="middle">2025</text><text class="pl" x="440" y="88" text-anchor="middle">Osaka</text></a>
+      <a href="conferences/nemd-2026.html" aria-label="NEMD 2026, Edinburgh"><circle class="hit" cx="560" cy="190" r="24"/><circle class="node" cx="560" cy="190" r="10"/><text class="yr" x="560" y="226" text-anchor="middle">2026</text><text class="pl" x="560" y="244" text-anchor="middle">Edinburgh</text></a>
+    </svg>
+    <ol class="series-list">
+      <li><a href="conferences/nemd-2020.html"><b>NEMD 2020</b> London, Brunel</a></li>
+      <li class="virtual"><a href="conferences/nemd-2021.html"><b>NEMD 2021</b> Online</a></li>
+      <li><a href="conferences/nemd-2024.html"><b>NEMD 2024</b> London, Imperial</a></li>
+      <li><a href="conferences/nemd-2025.html"><b>NEMD 2025</b> Osaka</a></li>
+      <li><a href="conferences/nemd-2026.html"><b>NEMD 2026</b> Edinburgh</a></li>
+    </ol>
+  </nav>
 </section>
 
-<div class="ticker">
-  <div class="t"><span class="n">5</span><span class="l">conferences</span></div>
-  <div class="t"><span class="n">2</span><span class="l">continents</span></div>
-  <div class="t"><span class="n">76</span><span class="l">delegates in 2026</span></div>
-  <div class="t"><span class="n">15</span><span class="l">countries</span></div>
-  <div class="t"><span class="n">2026</span><span class="l">first summer school</span></div>
+<div class="homecards">
+<section class="latestconf">
+  <div class="kick">Latest conference</div>
+  <h2><a href="conferences/nemd-2026.html">NEMD 2026 &middot; Edinburgh</a></h2>
+  <p class="meta">5th conference &middot; 8&ndash;10 July 2026 &middot; The Nucleus, University of Edinburgh</p>
+  <p>The 5th and largest meeting yet: 5 keynotes, 24 talks, 15 posters, 76 delegates from 15 countries, and the first summer school.</p>
+</section>
+<section class="nextconf">
+  <div class="kick">Next conference</div>
+  <h2>NEMD 2027?</h2>
+  <p>To be announced. Announcements about future meetings go to the mailing list first.</p>
+</section>
 </div>
-
-<section class="series">
-  <div class="kicker">The series</div>
-  <div class="rail">
-    <div class="tl-row"><span class="yr">2020</span><span class="what"><a href="conferences/nemd-2020.html">1st meeting, Brunel University London</a>: the series starts under the UK Fluids Network special interest group</span></div>
-    <div class="tl-row"><span class="yr">2021</span><span class="what"><a href="conferences/nemd-2021.html">2nd meeting, online</a>, with full recordings</span></div>
-    <div class="tl-row"><span class="yr">2024</span><span class="what"><a href="conferences/nemd-2024.html">3rd conference, Imperial College London</a></span></div>
-    <div class="tl-row"><span class="yr">2025</span><span class="what"><a href="conferences/nemd-2025.html">4th conference, Osaka</a>: the first outside the UK</span></div>
-    <div class="tl-row"><span class="yr">2026</span><span class="what"><a href="conferences/nemd-2026.html">5th conference, Edinburgh</a>: the largest yet, and the first with a <a href="summer-school.html">summer school</a></span></div>
-    <div class="tl-row future"><span class="yr">Next</span><span class="what">To be announced; the mailing list hears first</span></div>
-  </div>
-</section>
-
-<section class="band-light">
-  <h2>Stay in touch</h2>
-  <p>Announcements about future meetings go to the mailing list first. To join, email contact.nemd@gmail.com with the subject line "subscribe".</p>
-  <a class="cta" href="mailto:contact.nemd@gmail.com?subject=subscribe">Join the mailing list</a>
-</section>
+</div>
 ```

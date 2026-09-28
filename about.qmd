@@ -9,11 +9,3 @@ Non-equilibrium molecular dynamics (NEMD) is the study of fundamental fluid flow
 NEMD started in 2020 as a special interest group of the [UK Fluids Network](https://fluids.ac.uk/sig/NonEqmMD), kicked off at a meeting at Brunel University London on 17 January 2020. Since then it has grown into an international conference series: five meetings across the UK, online, and Japan, with the largest, [NEMD 2026 in Edinburgh](conferences/nemd-2026.html), gathering 76 delegates from 15 countries alongside the first [NEMD summer school](summer-school.html).
 
 The name has a longer history: NEMD workshops ran in the 2010s before the current series, and the field's roots go back to the first molecular simulations of shear flow. A fuller history page is planned; if you have material from the earlier era, please [get in touch](mailto:contact.nemd@gmail.com).
-
-## Get involved
-
-Join the mailing list: email [contact.nemd@gmail.com](mailto:contact.nemd@gmail.com?subject=subscribe) with the subject line "subscribe".
-
-## Contact
-
-Email [contact.nemd@gmail.com](mailto:contact.nemd@gmail.com).
