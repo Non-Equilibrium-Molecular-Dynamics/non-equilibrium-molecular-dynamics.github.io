@@ -13,18 +13,25 @@ format:
   </div>
 
   <nav class="series-map" aria-label="The conference series">
-    <svg class="route" viewBox="-10 20 660 260">
+    <svg class="route" viewBox="-10 20 660 260" aria-hidden="true" focusable="false">
       <path class="contour" d="M0 60 C 120 20, 200 120, 320 80 S 520 20, 640 70"/>
       <path class="contour" d="M0 130 C 140 90, 220 190, 340 150 S 540 90, 640 140"/>
       <path class="contour" d="M0 210 C 120 170, 230 270, 360 230 S 530 170, 640 220"/>
       <path class="contour" d="M0 280 C 130 240, 240 300, 380 270 S 540 250, 640 290"/>
       <path class="line" d="M70 200 L190 110 L310 200 L440 100 L560 190"/>
-      <a href="conferences/nemd-2020.html" aria-label="NEMD 2020, Brunel University London"><circle class="hit" cx="70" cy="200" r="24"/><circle class="node" cx="70" cy="200" r="10"/><text class="yr" x="70" y="236" text-anchor="middle">2020</text><text class="pl" x="70" y="254" text-anchor="middle">London, Brunel</text></a>
-      <a href="conferences/nemd-2021.html" aria-label="NEMD 2021, online"><circle class="hit" cx="190" cy="110" r="24"/><circle class="node virtual" cx="190" cy="110" r="10"/><text class="yr" x="190" y="80" text-anchor="middle">2021</text><text class="pl" x="190" y="98" text-anchor="middle">Online</text></a>
-      <a href="conferences/nemd-2024.html" aria-label="NEMD 2024, Imperial College London"><circle class="hit" cx="310" cy="200" r="24"/><circle class="node" cx="310" cy="200" r="10"/><text class="yr" x="310" y="236" text-anchor="middle">2024</text><text class="pl" x="310" y="254" text-anchor="middle">London, Imperial</text></a>
-      <a href="conferences/nemd-2025.html" aria-label="NEMD 2025, Osaka"><circle class="hit" cx="440" cy="100" r="24"/><circle class="node" cx="440" cy="100" r="10"/><text class="yr" x="440" y="70" text-anchor="middle">2025</text><text class="pl" x="440" y="88" text-anchor="middle">Osaka</text></a>
-      <a href="conferences/nemd-2026.html" aria-label="NEMD 2026, Edinburgh"><circle class="hit" cx="560" cy="190" r="24"/><circle class="node" cx="560" cy="190" r="10"/><text class="yr" x="560" y="226" text-anchor="middle">2026</text><text class="pl" x="560" y="244" text-anchor="middle">Edinburgh</text></a>
+      <g class="n n-2020"><circle class="node" cx="70" cy="200" r="10"/><text class="yr" x="70" y="236" text-anchor="middle">2020</text><text class="pl" x="70" y="254" text-anchor="middle">London, Brunel</text></g>
+      <g class="n n-2021"><circle class="node virtual" cx="190" cy="110" r="10"/><text class="yr" x="190" y="80" text-anchor="middle">2021</text><text class="pl" x="190" y="98" text-anchor="middle">Online</text></g>
+      <g class="n n-2024"><circle class="node" cx="310" cy="200" r="10"/><text class="yr" x="310" y="236" text-anchor="middle">2024</text><text class="pl" x="310" y="254" text-anchor="middle">London, Imperial</text></g>
+      <g class="n n-2025"><circle class="node" cx="440" cy="100" r="10"/><text class="yr" x="440" y="70" text-anchor="middle">2025</text><text class="pl" x="440" y="88" text-anchor="middle">Osaka</text></g>
+      <g class="n n-2026"><circle class="node" cx="560" cy="190" r="10"/><text class="yr" x="560" y="226" text-anchor="middle">2026</text><text class="pl" x="560" y="244" text-anchor="middle">Edinburgh</text></g>
     </svg>
+    <div class="route-links">
+      <a class="rl rl-2020" href="conferences/nemd-2020.html" style="left:12.12%;top:69.23%" aria-label="NEMD 2020, Brunel University London"></a>
+      <a class="rl rl-2021" href="conferences/nemd-2021.html" style="left:30.30%;top:34.62%" aria-label="NEMD 2021, online"></a>
+      <a class="rl rl-2024" href="conferences/nemd-2024.html" style="left:48.48%;top:69.23%" aria-label="NEMD 2024, Imperial College London"></a>
+      <a class="rl rl-2025" href="conferences/nemd-2025.html" style="left:68.18%;top:30.77%" aria-label="NEMD 2025, Osaka"></a>
+      <a class="rl rl-2026" href="conferences/nemd-2026.html" style="left:86.36%;top:65.38%" aria-label="NEMD 2026, Edinburgh"></a>
+    </div>
     <ol class="series-list">
       <li><a href="conferences/nemd-2020.html"><b>NEMD 2020</b> London, Brunel</a></li>
       <li class="virtual"><a href="conferences/nemd-2021.html"><b>NEMD 2021</b> Online</a></li>

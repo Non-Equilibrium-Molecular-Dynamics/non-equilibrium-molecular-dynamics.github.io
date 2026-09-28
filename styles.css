@@ -70,16 +70,24 @@ main.content li { margin-bottom: 0.35rem; }
 .route { width: 100%; height: auto; display: block; }
 .route .contour { fill: none; stroke: #9fb9bf; stroke-width: 1; opacity: 0.7; }
 .route .line { fill: none; stroke: var(--orange); stroke-width: 3; stroke-dasharray: 9 7; stroke-linecap: round; }
-.route a { text-decoration: none; }
-.route .hit { fill: transparent; }
 .route .node { fill: var(--paper); stroke: var(--orange); stroke-width: 3.5; transition: stroke-width 0.15s; }
 .route .node.virtual { stroke-dasharray: 4 3; }
 .route .yr { font-family: var(--slab); font-weight: 700; font-size: 21px; fill: var(--ink); }
 .route .pl { font-family: var(--sans); font-size: 16px; fill: var(--ink); }
-.route a:hover .node, .route a:focus-visible .node { stroke-width: 6; fill: var(--print); }
-.route a:hover .yr, .route a:focus-visible .yr { fill: var(--orange); }
-.route a:focus-visible { outline: none; }
-.route a:focus-visible .hit { stroke: var(--orange); stroke-width: 2; stroke-dasharray: 3 3; }
+.series-map { position: relative; }
+.route-links { position: absolute; inset: 0; }
+.route-links .rl { position: absolute; width: 52px; height: 52px; transform: translate(-50%, -50%); border-radius: 50%; }
+.route-links .rl:focus-visible { outline: 3px dashed var(--orange); outline-offset: 0; }
+.series-map:has(.rl-2020:hover) .n-2020 .node, .series-map:has(.rl-2020:focus-visible) .n-2020 .node { stroke-width: 6; fill: var(--print); }
+.series-map:has(.rl-2020:hover) .n-2020 .yr, .series-map:has(.rl-2020:focus-visible) .n-2020 .yr { fill: var(--orange); }
+.series-map:has(.rl-2021:hover) .n-2021 .node, .series-map:has(.rl-2021:focus-visible) .n-2021 .node { stroke-width: 6; fill: var(--print); }
+.series-map:has(.rl-2021:hover) .n-2021 .yr, .series-map:has(.rl-2021:focus-visible) .n-2021 .yr { fill: var(--orange); }
+.series-map:has(.rl-2024:hover) .n-2024 .node, .series-map:has(.rl-2024:focus-visible) .n-2024 .node { stroke-width: 6; fill: var(--print); }
+.series-map:has(.rl-2024:hover) .n-2024 .yr, .series-map:has(.rl-2024:focus-visible) .n-2024 .yr { fill: var(--orange); }
+.series-map:has(.rl-2025:hover) .n-2025 .node, .series-map:has(.rl-2025:focus-visible) .n-2025 .node { stroke-width: 6; fill: var(--print); }
+.series-map:has(.rl-2025:hover) .n-2025 .yr, .series-map:has(.rl-2025:focus-visible) .n-2025 .yr { fill: var(--orange); }
+.series-map:has(.rl-2026:hover) .n-2026 .node, .series-map:has(.rl-2026:focus-visible) .n-2026 .node { stroke-width: 6; fill: var(--print); }
+.series-map:has(.rl-2026:hover) .n-2026 .yr, .series-map:has(.rl-2026:focus-visible) .n-2026 .yr { fill: var(--orange); }
 .series-list { display: none; }
 
 /* ===== Latest and next conference ===== */
@@ -155,7 +163,7 @@ main.content .panel h2 { font-size: 26px; margin: 0 0 12px; padding-bottom: 10px
   .hero { padding: 28px 0 20px; gap: 22px; }
   .hero .lede { font-size: 18px; }
   /* Phones: the drawing becomes a readable list of the same meetings */
-  .route { display: none; }
+  .route, .route-links { display: none; }
   .series-list { display: block; list-style: none; margin: 0; padding: 0 0 0 22px; border-left: 3px dashed var(--orange); }
   .series-list li { position: relative; margin: 0 0 12px; }
   .series-list li::before { content: ""; position: absolute; left: -33px; top: 0.45em; width: 18px; height: 18px; border-radius: 50%; background: var(--paper); border: 3px solid var(--orange); }
@@ -176,3 +184,6 @@ main.content .panel h2 { font-size: 26px; margin: 0 0 12px; padding-bottom: 10px
 /* Quarto marks this navbar dark; make the phone menu icon dark on the paper background */
 .navbar-toggler { border-color: var(--rule); }
 .navbar-toggler-icon { filter: invert(1) brightness(0.35); }
+
+/* Conference detail pages sit in the Conferences section: keep its tab underlined */
+body.conference-page .navbar-nav .nav-link[href$="conferences.html"] { border-bottom-color: var(--orange); }
